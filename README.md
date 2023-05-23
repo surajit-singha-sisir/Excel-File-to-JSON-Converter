@@ -1,3 +1,37 @@
+# Excel File to JSON Converter
+
+This is a web application built with Django that allows you to convert Excel files into JSON format. With this application, you can easily upload an Excel file (.xlsx or .xls), and the application will convert the Excel fields into JSON objects. The resulting JSON data will be stored in an output file named "output.json".
+
+## Features
+
+- Upload Excel files (.xlsx and .xls)
+- Convert Excel fields to JSON object format
+- Smooth file upload experience using JavaScript
+- Automatic display of output after conversion completion
+- JSON data is stored in an "output.json" file
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/excel-to-json-converter.git
+2. Create a virtual environment and activate it:
+   ```bash
+   virtualenv venv
+   venv/scripts/activate
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+4. Run database migrations:
+   ```bash
+   python manage.py migrate
+
+5. Start the development server:
+   ```bash
+   python manage.py runserver
+6. Access the application in your web browser at http://localhost:8000
+
 # Excel File to JSON Data Converter
  The "Excel File to JSON Converter" is a web application developed using the Django framework. It provides a seamless solution for converting Excel files (.xlsx and .xls) into JSON object format.
 The "Excel File to JSON Converter" is a web application developed using the Django framework. It provides a seamless solution for converting Excel files (.xlsx and .xls) into JSON object format. With its user-friendly interface and advanced features, this application simplifies the process of transforming Excel data into a structured and flexible JSON format.
@@ -30,8 +64,13 @@ In summary, the "Excel File to JSON Converter" is a powerful web application tha
 ![2023-05-24_01h50_17](https://github.com/surajit-singha-sisir/Excel-File-to-JSON-Converter/assets/48810102/d268f899-ff5c-4d32-9add-12c0875306b1)
 
 <br><br>
+## Usage
+Upload an Excel file by clicking on the "Choose File" button.
+Wait for the conversion process to complete.
+The converted JSON data will be displayed on the page.
+## Contributing
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-<br><br>
-
-<br><br>
-
+## License
+This project is licensed under the MIT License.
+Feel free to modify and customize the README file according to your specific needs.

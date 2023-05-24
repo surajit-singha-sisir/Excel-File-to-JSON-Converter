@@ -1,0 +1,2252 @@
+[
+  {
+    "id": 1,
+    "question": "অকাল কুষ্মাণ্ড ",
+    "answer": " অপদার্থ, অকেজো",
+    "description": " Premature cucumber - Nonessential, awkward"
+  },
+  {
+    "id": 2,
+    "question": "অক্কা পাওয়া ",
+    "answer": " মারা যাওয়া",
+    "description": " Found dead - Expired"
+  },
+  {
+    "id": 4,
+    "question": "অগস্ত্য যাত্রা ",
+    "answer": " চির দিনের জন্য প্রস্থান",
+    "description": " Arduous journey - Departure for a long time"
+  },
+  {
+    "id": 5,
+    "question": "অগাধ জলের মাছ ",
+    "answer": " সুচতুর ব্যক্তি",
+    "description": " Fish of profound water - Clever person"
+  },
+  {
+    "id": 6,
+    "question": "অর্ধচন্দ্র ",
+    "answer": " গলা ধাক্কা",
+    "description": " Crescent - Throat hit"
+  },
+  {
+    "id": 7,
+    "question": "অন্ধের যষ্ঠি ",
+    "answer": " একমাত্র অবলম্বন",
+    "description": " Blind person's staff - Sole support"
+  },
+  {
+    "id": 8,
+    "question": "অন্ধের নড়ি ",
+    "answer": " একমাত্র অবলম্বন",
+    "description": " Blind person's cane - Sole support"
+  },
+  {
+    "id": 9,
+    "question": "অগ্নিশর্মা ",
+    "answer": " নিরতিশয় ক্রুদ্ধ",
+    "description": " Fiery anger - Unparalleled rage"
+  },
+  {
+    "id": 10,
+    "question": "অগ্নিপরীক্ষা ",
+    "answer": " কঠিন পরীক্ষা",
+    "description": " Trial by fire - Difficult examination"
+  },
+  {
+    "id": 11,
+    "question": "অগ্নিশর্মা ",
+    "answer": " ক্ষিপ্ত",
+    "description": " Fiery anger - Furious"
+  },
+  {
+    "id": 12,
+    "question": "অগাধ জলের মাছ ",
+    "answer": " খুব চালাক",
+    "description": " Fish of profound water - Very clever"
+  },
+  {
+    "id": 13,
+    "question": "অতি চালাকের গলায় দড়ি ",
+    "answer": " বেশি চাতুর্যর পরিণাম",
+    "description": " Noose around an extremely clever person's neck - Consequence of excessive flattery"
+  },
+  {
+    "id": 14,
+    "question": "অতি লোভে তাঁতি নষ্ট ",
+    "answer": " লোভে ক্ষতি",
+    "description": " Losing the thread in extreme greed - Loss due to greed"
+  },
+  {
+    "id": 15,
+    "question": "অদৃষ্টের পরিহাস ",
+    "answer": " বিধির বিড়ম্বনা",
+    "description": " Mockery of fate - Irony of fate"
+  },
+  {
+    "id": 16,
+    "question": "অর্ধচন্দ্র দেওয়া ",
+    "answer": " গলা ধাক্কা দিয়ে দেয়া",
+    "description": " Giving a throat hit - Giving a slap"
+  },
+  {
+    "id": 17,
+    "question": "অষ্টরম্ভা ",
+    "answer": " ফাঁকি",
+    "description": " Empty boast - Empty talk"
+  },
+  {
+    "id": 18,
+    "question": "অথৈ জলে পড়া ",
+    "answer": " খুব বিপদে পড়া",
+    "description": " Falling into deep water - Falling into great danger"
+  },
+  {
+    "id": 19,
+    "question": "অন্ধকারে ঢিল মারা ",
+    "answer": " আন্দাজে কাজ করা",
+    "description": " Working in the dark - Doing something approximately"
+  },
+  {
+    "id": 20,
+    "question": "অমৃতে অরুচি ",
+    "answer": " দামি জিনিসের প্রতি বিতৃষ্ণা",
+    "description": " No taste for nectar - Disinterest in expensive things"
+  },
+  {
+    "id": 21,
+    "question": "অন্ধকারে ঢিল মারা ",
+    "answer": " আন্দাজে কাজ করা",
+    "description": " Working in the dark - Doing something approximately"
+  },
+  {
+    "id": 22,
+    "question": "অকূল পাথার ",
+    "answer": " ভীষণ বিপদ",
+    "description": " Unfavorable stone - Grave danger"
+  },
+  {
+    "id": 23,
+    "question": "অনুরোধে ঢেঁকি গেলা ",
+    "answer": " অনুরোধে দুরূহ কাজ সম্পন্ন করতে সম্মতি দেয়া",
+    "description": " Caught in the trap of a request - Agreeing to do a difficult task upon request"
+  },
+  {
+    "id": 24,
+    "question": "অদৃষ্টের পরিহাস ",
+    "answer": " ভাগ্যের নিষ্ঠুরতা",
+    "description": " Fate's mockery - Inflexibility of destiny"
+  },
+  {
+    "id": 25,
+    "question": "অল্পবিদ্যা ভয়ংকরী ",
+    "answer": " সামান্য বিদ্যার অহংকার",
+    "description": " Terrifying with limited knowledge - Arrogance of little education"
+  },
+  {
+    "id": 26,
+    "question": "অনধিকার চর্চা ",
+    "answer": " সীমার বাইরে পদক্ষেপ",
+    "description": " Discussion beyond limits - Step outside the boundary"
+  },
+  {
+    "id": 27,
+    "question": "অরণ্যে রোদন ",
+    "answer": " নিষ্ফল আবেদন",
+    "description": " Crying in the forest - Fruitless endeavor"
+  },
+  {
+    "id": 28,
+    "question": "অহিনকুল সম্বন্ধ ",
+    "answer": " ভীষণ শত্রুতা",
+    "description": " Relationship filled with enmity - Intense animosity"
+  },
+  {
+    "id": 29,
+    "question": "অন্ধকার দেখা ",
+    "answer": " দিশেহারা হয়ে পড়া",
+    "description": " Seeing darkness - Losing direction"
+  },
+  {
+    "id": 30,
+    "question": "অমাবস্যার চাঁদ ",
+    "answer": " দুর্লভ বস্তু",
+    "description": " Moon of the lunar eclipse - Rare object"
+  },
+  {
+    "id": 31,
+    "question": "আকাশ কুসুম ",
+    "answer": " অসম্ভব কল্পনা",
+    "description": " Sky flower - Improbable imagination"
+  },
+  {
+    "id": 32,
+    "question": "আকাশ পাতাল ",
+    "answer": " প্রভেদ",
+    "description": " Sky and underground - Disclosure"
+  },
+  {
+    "id": 33,
+    "question": "আকাশ থেকে পড়া ",
+    "answer": " অপ্রত্যাশিত",
+    "description": " Falling from the sky - Unexpected"
+  },
+  {
+    "id": 34,
+    "question": "আকাশের চাঁদ ",
+    "answer": " আকাঙ্ক্ষিত বস্তু",
+    "description": " Moon of the sky - Desired object"
+  },
+  {
+    "id": 35,
+    "question": "আগুন নিয়ে খেলা ",
+    "answer": " ভয়ঙ্কর বিপদ",
+    "description": " Playing with fire - Dangerous situation"
+  },
+  {
+    "id": 36,
+    "question": "আগুনে ঘি ঢালা ",
+    "answer": " রাগ বাড়ানো",
+    "description": " Pouring ghee into the fire - Fueling anger"
+  },
+  {
+    "id": 37,
+    "question": "আঙুল ফুলে কলাগাছ ",
+    "answer": " অপ্রত্যাশিত ধনলাভ",
+    "description": " Banana tree blooming from fingers - Unexpected financial gain"
+  },
+  {
+    "id": 38,
+    "question": "আঠার আনা ",
+    "answer": " সমূহ সম্ভাবনা",
+    "description": " Bringing in eight - Multiple possibilities"
+  },
+  {
+    "id": 39,
+    "question": "আদায় কাঁচকলায় ",
+    "answer": " তিক্ত সম্পর্ক",
+    "description": " Glass in clay - Bitter relationship"
+  },
+  {
+    "id": 40,
+    "question": "আহ্লাদে আটখানা ",
+    "answer": " খুব খুশি",
+    "description": " Eightfold happiness - Very happy"
+  },
+  {
+    "id": 41,
+    "question": "আক্কেল সেলামি ",
+    "answer": " নির্বুদ্ধিতার দণ্ড",
+    "description": " Unnecessary salutation - Penalty of foolishness"
+  },
+  {
+    "id": 42,
+    "question": "আঙুল ফুলে কলাগাছ ",
+    "answer": " হঠাৎ বড়লোক",
+    "description": " Banana tree blooming from fingers - Sudden windfall"
+  },
+  {
+    "id": 43,
+    "question": "আকাশের চাঁদ হাতে পাওয়া ",
+    "answer": " দুর্লভ বস্তু প্রাপ্তি",
+    "description": " Finding the moon from the sky in hand - Rare attainment"
+  },
+  {
+    "id": 44,
+    "question": "আদায় কাঁচকলায় ",
+    "answer": " শত্রুতা",
+    "description": " Glass in clay - Hostility"
+  },
+  {
+    "id": 45,
+    "question": "আদা জল খেয়ে লাগা ",
+    "answer": " প্রাণপণ চেষ্টা করা",
+    "description": " Getting wet in ginger water - Making desperate efforts"
+  },
+  {
+    "id": 46,
+    "question": "আক্কেল গুড়ুম ",
+    "answer": " হতবুদ্ধি, স্তম্ভিত",
+    "description": " Foolish idiot - Ignorant, stunned"
+  },
+  {
+    "id": 47,
+    "question": "আমড়া কাঠের ঢেঁকি ",
+    "answer": " অপদার্থ",
+    "description": " Shelter under a mango tree - Inessential"
+  },
+  {
+    "id": 48,
+    "question": "আকাশ ভেঙে পড়া ",
+    "answer": " ভীষণ বিপদে পড়া",
+    "description": " Falling through the sky - Falling into great danger"
+  },
+  {
+    "id": 49,
+    "question": "আমতা আমতা করা ",
+    "answer": " ইতস্তত করা, দ্বিধা করা",
+    "description": " Counting and counting - Hesitating, having doubts"
+  },
+  {
+    "id": 50,
+    "question": "আটকপালে ",
+    "answer": " হতভাগ্য",
+    "description": " Being stuck - Unfortunate"
+  },
+  {
+    "id": 51,
+    "question": "আঠার মাসের বছর ",
+    "answer": " দীর্ঘসূত্রিতা",
+    "description": " Year of eighteen months - Long duration"
+  },
+  {
+    "id": 52,
+    "question": "আলালের ঘরের দুলাল ",
+    "answer": " অতি আদরে নষ্ট পুত্র",
+    "description": " Son of a milkman's house - Highly beloved son"
+  },
+  {
+    "id": 53,
+    "question": "আকাশে তোলা ",
+    "answer": " অতিরিক্ত প্রশংসা করা",
+    "description": " Lifted to the sky - High praise"
+  },
+  {
+    "id": 54,
+    "question": "আষাঢ়ে গল্প ",
+    "answer": " আজগুবি কেচ্ছা",
+    "description": " Story of the month of Ashad - Absurd story"
+  },
+  {
+    "id": 55,
+    "question": "ইঁদুর কপালে ",
+    "answer": " নিতান্ত মন্দভাগ্য",
+    "description": " On the head of a mouse - Extremely unlucky"
+  },
+  {
+    "id": 56,
+    "question": "ইঁচড়ে পাকা ",
+    "answer": " অকালপক্ব",
+    "description": " Cooked unevenly - Prematurely cooked"
+  },
+  {
+    "id": 57,
+    "question": "ইলশে গুঁড়ি ",
+    "answer": " গুড়ি গুড়ি বৃষ্টি",
+    "description": " Rain of sesame seeds - Light rain"
+  },
+  {
+    "id": 58,
+    "question": "ইতর বিশেষ ",
+    "answer": " পার্থক্য",
+    "description": " Other specialty - Difference"
+  },
+  {
+    "id": 59,
+    "question": "উত্তম মধ্যম ",
+    "answer": " প্রহার",
+    "description": " Best medium - Attack"
+  },
+  {
+    "id": 60,
+    "question": "উড়নচন্ডী ",
+    "answer": " অমিতব্যয়ী",
+    "description": " Flying kite - Immeasurable"
+  },
+  {
+    "id": 61,
+    "question": "উভয় সংকট ",
+    "answer": " দুই দিকেই বিপদ",
+    "description": " Dual trouble - Trouble from both sides"
+  },
+  {
+    "id": 62,
+    "question": "উলু বনে মুক্ত ছড়ানো ",
+    "answer": " অপাত্রে/অস্থানে মূল্যবান দ্রব্য প্রদান",
+    "description": " Releasing a crow in an owl's forest - Offering valuable goods in an inappropriate place"
+  },
+  {
+    "id": 63,
+    "question": "উড়ো চিঠি ",
+    "answer": " বেনামি পত্র",
+    "description": " Flying letter - Anonymous letter"
+  },
+  {
+    "id": 64,
+    "question": "উড়ে এসে জুড়ে বসা ",
+    "answer": " অনধিকারীর অধিকার",
+    "description": " Coming and sitting together - Usurping someone's rights"
+  },
+  {
+    "id": 65,
+    "question": "উজানে কৈ ",
+    "answer": " সহজলভ্য",
+    "description": " In the right place - Easily available"
+  },
+  {
+    "id": 66,
+    "question": "উদোর পিণ্ডি বুধোর ঘাড়ে ",
+    "answer": " একের দোষ অন্যের ঘাড়ে চাপানো",
+    "description": " Cuckoo's nest on an elder's pot - Blaming one for another's fault"
+  },
+  {
+    "id": 67,
+    "question": "ঊনপাঁজুড়ে ",
+    "answer": " অপদার্থ",
+    "description": " Incomplete - Worthless"
+  },
+  {
+    "id": 68,
+    "question": "ঊনপঞ্চাশ বায়ু ",
+    "answer": " পাগলামি",
+    "description": " Ninety-five winds - Madness"
+  },
+  {
+    "id": 69,
+    "question": "এক ক্ষুরে মাথা মুড়ানো ",
+    "answer": " একই স্বভাবের",
+    "description": " Turning the head with a knife - The same way of doing things"
+  },
+  {
+    "id": 70,
+    "question": "এক চোখা ",
+    "answer": " পক্ষপাতিত্ব, পক্ষপাতদুষ্ট",
+    "description": " One-eyed - Biased, prejudiced"
+  },
+  {
+    "id": 71,
+    "question": "এক মাঘে শীত যায় না ",
+    "answer": " বিপদ এক বারই আসে না, বার বার আসে",
+    "description": " Winter doesn't end in one Magh - Trouble doesn't end easily"
+  },
+  {
+    "id": 72,
+    "question": "এলোপাতাড়ি ",
+    "answer": " বিশৃঙ্খলা",
+    "description": " Swinging - Inconsistency"
+  },
+  {
+    "id": 73,
+    "question": "এসপার ওসপার ",
+    "answer": " মীমাংসা",
+    "description": " This or that - Speculation"
+  },
+  {
+    "id": 74,
+    "question": "একাদশে বৃহস্পতি ",
+    "answer": " সৌভাগ্যের বিষয়",
+    "description": " Thursday of the eleventh lunar day - Lucky day"
+  },
+  {
+    "id": 75,
+    "question": "এক বনে দুই বাঘ ",
+    "answer": " প্রবল প্রতিদ্বন্দ্বী",
+    "description": " Two tigers in one forest - Strong rivals"
+  },
+  {
+    "id": 76,
+    "question": "এক বনে দুই বাঘ ",
+    "answer": " প্রবল প্রতিদ্বন্দ্বী",
+    "description": " Two tigers in one forest - Strong rivals"
+  },
+  {
+    "id": 77,
+    "question": "এক ক্ষুরে মাথা মুড়ানো ",
+    "answer": " একই দলভুক্ত",
+    "description": " Turning the head with a knife - Same faction"
+  },
+  {
+    "id": 78,
+    "question": "এক করতে আর এলাহি কাণ্ড ",
+    "answer": " বিরাট আয়োজন",
+    "description": " To kill two birds with one stone - Great arrangement"
+  },
+  {
+    "id": 79,
+    "question": "ওজন বুঝে চলা ",
+    "answer": " অবস্থা বুঝে চলা",
+    "description": " Walking with understanding of weight - Adjusting to the situation"
+  },
+  {
+    "id": 80,
+    "question": "ওষুধে ধরা ",
+    "answer": " প্রার্থিত ফল পাওয়া",
+    "description": " Holding on to the medicine - Achieving the desired result"
+  },
+  {
+    "id": 81,
+    "question": "কচুকাটা করা ",
+    "answer": " নির্মমভাবে ধ্বংস করা",
+    "description": " Breaking a jackfruit - Destroying ruthlessly"
+  },
+  {
+    "id": 82,
+    "question": "কচু পোড়া ",
+    "answer": " অখাদ্য",
+    "description": " Unripe banana - Inedible"
+  },
+  {
+    "id": 83,
+    "question": "কচ্ছপের কামড় ",
+    "answer": " যা সহজে ছাড়ে না",
+    "description": " Turtle's shell - Something not easily discarded"
+  },
+  {
+    "id": 84,
+    "question": "কলম পেষা ",
+    "answer": " কেরানিগিরি",
+    "description": " Sending a pen - Sending a letter"
+  },
+  {
+    "id": 85,
+    "question": "কলুর বলদ ",
+    "answer": " এক টানা খাটুনি",
+    "description": " A bundle of sugarcane - A single blow"
+  },
+  {
+    "id": 86,
+    "question": "কথার কথা ",
+    "answer": " গুরুত্বহীন কথা",
+    "description": " The word of words - Meaningless talk"
+  },
+  {
+    "id": 87,
+    "question": "কাঁঠালের আমসত্ত্ব ",
+    "answer": " অসম্ভব বস্তু",
+    "description": " Jackfruit's superiority - Improbable object"
+  },
+  {
+    "id": 88,
+    "question": "কাকতাল ",
+    "answer": " আকস্মিক/দৈব যোগাযোগজাত ঘটনা",
+    "description": " An owl's feather - Unexpected or accidental event"
+  },
+  {
+    "id": 89,
+    "question": "কপাল ফেরা ",
+    "answer": " সৌভাগ্য লাভ",
+    "description": " Changing the forehead - Gaining good luck"
+  },
+  {
+    "id": 90,
+    "question": "কত ধানে কত চাল ",
+    "answer": " হিসেব করে চলা",
+    "description": " How much paddy, how much rice - Calculating and proceeding"
+  },
+  {
+    "id": 91,
+    "question": "কড়ায় গণ্ডায় ",
+    "answer": " পুরোপুরি",
+    "description": " Sticking to the pot - Completely"
+  },
+  {
+    "id": 92,
+    "question": "কান খাড়া করা ",
+    "answer": " মনোযোগী হওয়া",
+    "description": " Making the ear stand - Paying attention"
+  },
+  {
+    "id": 93,
+    "question": "কানকাটা ",
+    "answer": " নির্লজ্জ",
+    "description": " Ear-cutting - Shameless"
+  },
+  {
+    "id": 94,
+    "question": "কান ভাঙানো ",
+    "answer": " কুপরামর্শ দান",
+    "description": " Breaking the ear - Giving bad advice"
+  },
+  {
+    "id": 95,
+    "question": "কান ভারি করা ",
+    "answer": " কুপরামর্শ দান",
+    "description": " Making the ear heavy - Giving bad advice"
+  },
+  {
+    "id": 96,
+    "question": "কাপুড়ে বাবু ",
+    "answer": " বাহ্যিক সাজ",
+    "description": " Gentleman in clothing - External appearance"
+  },
+  {
+    "id": 97,
+    "question": "কেউ কেটা ",
+    "answer": " গণ্যমান্য",
+    "description": " Someone cut - Considered valuable"
+  },
+  {
+    "id": 98,
+    "question": "কেঁচে গণ্ডুষ ",
+    "answer": " পুনরায় আরম্ভ",
+    "description": " Chewing glass - Starting again"
+  },
+  {
+    "id": 99,
+    "question": "কেঁচো খুড়তে সাপ ",
+    "answer": " বিপদজনক পরিস্থিতি",
+    "description": " Snake in a glass jar - Dangerous situation"
+  },
+  {
+    "id": 100,
+    "question": "কই মাছের প্রাণ ",
+    "answer": " যা সহজে মরে না",
+    "description": " Life of a carp fish - Something that doesn't die easily"
+  },
+  {
+    "id": 101,
+    "question": "কুঁড়ের বাদশা ",
+    "answer": " খুব অলস",
+    "description": " Very lazy"
+  },
+  {
+    "id": 102,
+    "question": "কাক ভূষণ্ডী ",
+    "answer": " দীর্ঘজীবী",
+    "description": " Long-lived"
+  },
+  {
+    "id": 103,
+    "question": "কেতা দুরস্ত ",
+    "answer": " পরিপাটি",
+    "description": " Troublemaker"
+  },
+  {
+    "id": 104,
+    "question": "কাছা আলগা ",
+    "answer": " অসাবধান",
+    "description": " Careless"
+  },
+  {
+    "id": 105,
+    "question": "কাঁচা পয়সা ",
+    "answer": " নগদ উপার্জন",
+    "description": " Cash earnings"
+  },
+  {
+    "id": 106,
+    "question": "কাঁঠালের আমসত্ত্ব ",
+    "answer": " অসম্ভব বস্তু",
+    "description": " Impossible object"
+  },
+  {
+    "id": 107,
+    "question": "কূপমণ্ডুক ",
+    "answer": " সীমাবদ্ধ জ্ঞান সম্পন্ন, ঘরকুনো",
+    "description": " Knowledgeable, introverted"
+  },
+  {
+    "id": 108,
+    "question": "কেতা দুরস্ত ",
+    "answer": " পরিপাটি",
+    "description": "Fashionable"
+  },
+  {
+    "id": 109,
+    "question": "কাঠের পুতুল ",
+    "answer": " নির্জীব, অসার",
+    "description": " Lifeless, useless"
+  },
+  {
+    "id": 110,
+    "question": "কথায় চিঁড়ে ভেজা ",
+    "answer": " ফাঁকা বুলিতে কার্যসাধন",
+    "description": " Doing a task with empty words"
+  },
+  {
+    "id": 111,
+    "question": "কান পাতলা ",
+    "answer": " সহজেই বিশ্বাসপ্রবণ",
+    "description": " Easily influenced"
+  },
+  {
+    "id": 112,
+    "question": "কাছা ঢিলা ",
+    "answer": " অসাবধান",
+    "description": " Careless"
+  },
+  {
+    "id": 113,
+    "question": "কুল কাঠের আগুন ",
+    "answer": " তীব্র জ্বালা",
+    "description": " Intense flame"
+  },
+  {
+    "id": 114,
+    "question": "কেঁচো খুড়তে সাপ ",
+    "answer": " সামান্য থেকে অসামান্য পরিস্থিতি",
+    "description": " Unusual situation from a minor incident"
+  },
+  {
+    "id": 115,
+    "question": "কেউ কেটা ",
+    "answer": " সামান্য",
+    "description": " Insignificant"
+  },
+  {
+    "id": 116,
+    "question": "কেঁচে গণ্ডুষ ",
+    "answer": " পুনরায় আরম্ভ",
+    "description": " Restarting from scratch"
+  },
+  {
+    "id": 117,
+    "question": "কৈ মাছের প্রাণ ",
+    "answer": " যা সহজে মরে না",
+    "description": " What doesn't die easily"
+  },
+  {
+    "id": 118,
+    "question": "খয়ের খাঁ ",
+    "answer": " চাটুকার",
+    "description": " Flatterer"
+  },
+  {
+    "id": 119,
+    "question": "খণ্ড প্রলয় ",
+    "answer": " ভীষণ ব্যাপার",
+    "description": " Catastrophic event"
+  },
+  {
+    "id": 120,
+    "question": "খাল কেটে কুমির আনা ",
+    "answer": " বিপদ ডেকে আনা",
+    "description": " Bringing trouble upon oneself"
+  },
+  {
+    "id": 121,
+    "question": "গড্ডলিকা প্রবাহ ",
+    "answer": " অন্ধ অনুকরণ",
+    "description": " Blind imitation"
+  },
+  {
+    "id": 122,
+    "question": "গদাই লস্করি চাল ",
+    "answer": " অতি ধীর গতি, আলসেমি",
+    "description": " Very slow pace, laziness"
+  },
+  {
+    "id": 123,
+    "question": "গণেশ উল্টানো ",
+    "answer": " উঠে যাওয়া, ফেল মারা",
+    "description": " Upsetting, destroying"
+  },
+  {
+    "id": 124,
+    "question": "গলগ্রহ ",
+    "answer": " পরের বোঝা স্বরূপ থাকা",
+    "description": " Having hidden intentions"
+  },
+  {
+    "id": 125,
+    "question": "গরজ বড় বালাই ",
+    "answer": " প্রয়োজনে গুরুত্ব",
+    "description": " Great importance in need"
+  },
+  {
+    "id": 126,
+    "question": "গরমা গরম ",
+    "answer": " টাটকা",
+    "description": " Hot-tempered"
+  },
+  {
+    "id": 127,
+    "question": "গরিবের ঘোড়া রোগ ",
+    "answer": " অবস্থার অতিরিক্ত অন্যায় ইচ্ছা",
+    "description": " Unfair desire beyond one's situation"
+  },
+  {
+    "id": 128,
+    "question": "গুর খোঁজা ",
+    "answer": " তন্ন তন্ন করে খোঁজা",
+    "description": " Searching extensively"
+  },
+  {
+    "id": 129,
+    "question": "গুরু মেরে জুতা দান ",
+    "answer": " বড় ক্ষতি করে সামান্য ক্ষতিপূরণ",
+    "description": " Causing significant damage for minimal gain"
+  },
+  {
+    "id": 130,
+    "question": "গাছে কাঁঠাল গোঁফে তেল ",
+    "answer": " প্রাপ্তির আগেই আয়োজন",
+    "description": " Planning before achieving"
+  },
+  {
+    "id": 131,
+    "question": "গা ঢাকা দেওয়া ",
+    "answer": " আত্মগোপন",
+    "description": " Keeping secrets"
+  },
+  {
+    "id": 132,
+    "question": "গায়ে কাঁটা দেওয়া ",
+    "answer": " রোমাঞ্চিত হওয়া",
+    "description": " Feeling thrilled"
+  },
+  {
+    "id": 133,
+    "question": "গাছে তুলে মই কাড়া ",
+    "answer": " সাহায্যের আশা দিয়ে সাহায্য না করা",
+    "description": " Not helping despite having hope for assistance"
+  },
+  {
+    "id": 134,
+    "question": "গায়ে ফুঁ দিয়ে বেড়ানো ",
+    "answer": " কোনো দায়িত্ব গ্রহণ না করা",
+    "description": " Not taking responsibility despite blowing on the cow's udder."
+  },
+  {
+    "id": 135,
+    "question": "গুরু মারা বিদ্যা ",
+    "answer": " যার কাছে শিক্ষা তারই উপর প্রয়োগ",
+    "description": " Applying the knowledge gained from a deceased teacher."
+  },
+  {
+    "id": 136,
+    "question": "গোকুলের ষাঁড় ",
+    "answer": " স্বেচ্ছাচারী লোক",
+    "description": " Willful person"
+  },
+  {
+    "id": 137,
+    "question": "গোঁয়ার গোবিন্দ ",
+    "answer": " নির্বোধ অথচ হঠকারী",
+    "description": " Ignorant yet stubborn"
+  },
+  {
+    "id": 138,
+    "question": "গোল্লায় যাওয়া ",
+    "answer": " নষ্ট হওয়া, অধঃপাতে যাওয়া",
+    "description": " Ruined, fallen down"
+  },
+  {
+    "id": 139,
+    "question": "গোবর গণেশ ",
+    "answer": " মূর্খ",
+    "description": " Foolish"
+  },
+  {
+    "id": 140,
+    "question": "গোলক ধাঁধা ",
+    "answer": " দিশেহারা",
+    "description": " Confused"
+  },
+  {
+    "id": 141,
+    "question": "গোঁফ খেজুরে ",
+    "answer": " নিতান্ত অলস",
+    "description": " Extremely lazy"
+  },
+  {
+    "id": 142,
+    "question": "গোড়ায় গলদ ",
+    "answer": " শুরুতে ভুল",
+    "description": " Started off wrong"
+  },
+  {
+    "id": 143,
+    "question": "গৌরচন্দ্রিকা ",
+    "answer": " ভূমিকা",
+    "description": " Introduction"
+  },
+  {
+    "id": 144,
+    "question": "গৌরীসেনের টাকা ",
+    "answer": " বেহিসাবী অর্থ",
+    "description": " Excessive money"
+  },
+  {
+    "id": 145,
+    "question": "গুড়ে বালি ",
+    "answer": " আশায় নৈরাশ্য",
+    "description": " Hope and despair"
+  },
+  {
+    "id": 146,
+    "question": "ঘর ভাঙানো ",
+    "answer": " সংসার বিনষ্ট করা",
+    "description": " Ruin a household"
+  },
+  {
+    "id": 147,
+    "question": "ঘাটের মরা ",
+    "answer": " অতি বৃদ্ধ",
+    "description": " Very old"
+  },
+  {
+    "id": 148,
+    "question": "ঘোড়া রোগ ",
+    "answer": " সাধ্যের অতিরিক্ত সাধ",
+    "description": " Impossibility beyond possibility"
+  },
+  {
+    "id": 149,
+    "question": "ঘোড়া ডিঙিয়ে ঘাস খাওয়া ",
+    "answer": " মধ্যবর্তীকে অতিক্রম করে কাজ করা",
+    "description": " Bypassing the intermediary and getting the work done"
+  },
+  {
+    "id": 150,
+    "question": "ঘোড়ার ঘাস কাটা ",
+    "answer": " অকাজে সময় নষ্ট করা",
+    "description": " Wasting time unnecessarily"
+  },
+  {
+    "id": 151,
+    "question": "ঘোড়ার ডিম ",
+    "answer": " অবাস্তব",
+    "description": " Unrealistic"
+  },
+  {
+    "id": 152,
+    "question": "ঘরের খেয়ে বনের মোষ তাড়ানো ",
+    "answer": " নিজ খরচে পরের বেগার খাটা",
+    "description": " Borrowing the next day's needs for today's enjoyment"
+  },
+  {
+    "id": 153,
+    "question": "ঘাটের মড়া ",
+    "answer": " অতি বৃদ্ধ",
+    "description": " Very old"
+  },
+  {
+    "id": 154,
+    "question": "ঘটিরাম ",
+    "answer": " আনাড়ি হাকিম",
+    "description": " Unskilled doctor"
+  },
+  {
+    "id": 155,
+    "question": "চক্ষুদান করা ",
+    "answer": " চুরি করা",
+    "description": " Stealing"
+  },
+  {
+    "id": 156,
+    "question": "চক্ষুলজ্জা ",
+    "answer": " সংকোচ",
+    "description": " Shyness"
+  },
+  {
+    "id": 157,
+    "question": "চর্বিত চর্বণ ",
+    "answer": " পুনরাবৃত্তি",
+    "description": " Repetition"
+  },
+  {
+    "id": 158,
+    "question": "চাঁদের হাট ",
+    "answer": " আনন্দের প্রাচুর্য",
+    "description": " Abundance of joy"
+  },
+  {
+    "id": 159,
+    "question": "চিনির বলদ ",
+    "answer": " ভারবাহী কিন্তু ফল লাভের অংশীদার নয়",
+    "description": " Heavy but not contributing to the outcome"
+  },
+  {
+    "id": 160,
+    "question": "চোখের বালি ",
+    "answer": " চক্ষুশূল",
+    "description": " Eye pain"
+  },
+  {
+    "id": 161,
+    "question": "চোখের পর্দা ",
+    "answer": " লজ্জা",
+    "description": " Shyness"
+  },
+  {
+    "id": 162,
+    "question": "চোখ কপালে তোলা ",
+    "answer": " বিস্মিত হওয়া",
+    "description": " Being amazed"
+  },
+  {
+    "id": 163,
+    "question": "চোখ টাটানো ",
+    "answer": " ঈর্ষা করা",
+    "description": " Envying"
+  },
+  {
+    "id": 164,
+    "question": "চোখে ধুলো দেওয়া ",
+    "answer": " প্রতারণা করা",
+    "description": " Harassing"
+  },
+  {
+    "id": 165,
+    "question": "চোখের চামড়া ",
+    "answer": " লজ্জা",
+    "description": " Shyness"
+  },
+  {
+    "id": 166,
+    "question": "চুনকালি দেওয়া ",
+    "answer": " কলঙ্ক",
+    "description": " Stigma"
+  },
+  {
+    "id": 167,
+    "question": "চশমখোর ",
+    "answer": " চক্ষুলজ্জাহীন",
+    "description": " Shyless"
+  },
+  {
+    "id": 168,
+    "question": "চোখের মণি ",
+    "answer": " প্রিয়",
+    "description": " Beloved"
+  },
+  {
+    "id": 169,
+    "question": "চামচিকের লাথি ",
+    "answer": " নগণ্য ব্যক্তির কটূক্তি",
+    "description": " Unimportant person's criticism"
+  },
+  {
+    "id": 170,
+    "question": "চিনির পুতুল ",
+    "answer": " শ্রমকাতর",
+    "description": " Hardworking"
+  },
+  {
+    "id": 171,
+    "question": "চুঁনোপুটি ",
+    "answer": " নগণ্য",
+    "description": " Insignificant"
+  },
+  {
+    "id": 172,
+    "question": "চুলোয় যাওয়া ",
+    "answer": " ধ্বংস",
+    "description": " Destroy"
+  },
+  {
+    "id": 173,
+    "question": "চিনে/ছিনে জোঁক ",
+    "answer": " নাছোড়বান্দা",
+    "description": " Unreliable"
+  },
+  {
+    "id": 174,
+    "question": "ছ কড়া ন কড়া ",
+    "answer": " সস্তা দর",
+    "description": " Cheap price"
+  },
+  {
+    "id": 175,
+    "question": "ছা পোষা ",
+    "answer": " অত্যন্ত গরিব",
+    "description": " Extremely poor"
+  },
+  {
+    "id": 176,
+    "question": "ছাই ফেলতে ভাঙা কুলা ",
+    "answer": " সামান্য কাজের জন্য অপদার্থ ব্যক্তি",
+    "description": " Unproductive person for small tasks"
+  },
+  {
+    "id": 177,
+    "question": "ছেলের হাতের মোয়া ",
+    "answer": " সামান্য বস্তু",
+    "description": " Insignificant item"
+  },
+  {
+    "id": 178,
+    "question": "ছুঁচো মেরে হাত গন্ধ করা ",
+    "answer": " নগণ্য স্বার্থে দুর্নাম অর্জন",
+    "description": " Gaining ill-gotten wealth through unethical means"
+  },
+  {
+    "id": 179,
+    "question": "ছক্কা পাঞ্জা ",
+    "answer": " বড় বড় কথা বলা",
+    "description": " Talking big"
+  },
+  {
+    "id": 180,
+    "question": "ছিঁচ কাদুনে ",
+    "answer": " অল্পই কাঁদে এমন",
+    "description": " Crying a little"
+  },
+  {
+    "id": 181,
+    "question": "ছিনিমিনি খেলা ",
+    "answer": " নষ্ট করা",
+    "description": " Destroying"
+  },
+  {
+    "id": 182,
+    "question": "ছেলের হাতের মোয়া ",
+    "answer": " সহজলভ্য বস্তু",
+    "description": " Easily obtainable item"
+  },
+  {
+    "id": 183,
+    "question": "জগাখিচুড়ি পাকানো ",
+    "answer": " গোলমাল বাধানো",
+    "description": " Creating confusion"
+  },
+  {
+    "id": 184,
+    "question": "জিলাপির প্যাঁচ ",
+    "answer": " কুটিলতা",
+    "description": " Deception"
+  },
+  {
+    "id": 185,
+    "question": "জীবিতপ্রায় জলে কুমির ডাঙায় বাঘ ",
+    "answer": " উভয় সঙ্কট",
+    "description": " Double trouble"
+  },
+  {
+    "id": 186,
+    "question": "ঝড়ো কাক ",
+    "answer": " বিপর্যস্ত",
+    "description": " Disturbed"
+  },
+  {
+    "id": 187,
+    "question": "ঝাঁকের কৈ ",
+    "answer": " এক দলভুক্ত",
+    "description": " Grouped together"
+  },
+  {
+    "id": 188,
+    "question": "ঝিকে মেরে বউকে বোঝানো ",
+    "answer": " একজনের মাধ্যমে দিয়ে অন্যজনকে শিক্ষাদান",
+    "description": " Educating one person through another person"
+  },
+  {
+    "id": 189,
+    "question": "ঝোপ বুঝে কোপ মারা ",
+    "answer": " সুযোগ মত কাজ করা",
+    "description": " Doing things casually"
+  },
+  {
+    "id": 190,
+    "question": "টেকে গোঁজা ",
+    "answer": " আত্মসাৎ করা",
+    "description": " Faking ignorance"
+  },
+  {
+    "id": 191,
+    "question": "টুপভুজঙ্গ ",
+    "answer": " নেশায় বিভোর",
+    "description": " Being intoxicated"
+  },
+  {
+    "id": 192,
+    "question": "ঠাঁট বজায় রাখা ",
+    "answer": " অভাব চাপা রাখা",
+    "description": " Keeping a scarcity"
+  },
+  {
+    "id": 193,
+    "question": "ঠোঁট কাটা ",
+    "answer": " বেহায়া",
+    "description": " Swearing"
+  },
+  {
+    "id": 194,
+    "question": "ঠগ বাছতে গাঁ উজাড় ",
+    "answer": " আদর্শহীনতার প্রাচুর্য",
+    "description": " Abundance of immorality"
+  },
+  {
+    "id": 195,
+    "question": "ঠুঁটো জগন্নাথ ",
+    "answer": " অকর্মণ্য",
+    "description": " Incompetent"
+  },
+  {
+    "id": 196,
+    "question": "ঠেলার নাম বাবাজি ",
+    "answer": " চাপে পড়ে কাবু",
+    "description": " Getting caught in a trap"
+  },
+  {
+    "id": 197,
+    "question": "ডুমুরের ফুল ",
+    "answer": " দুর্লভ বস্তু",
+    "description": " Rare item"
+  },
+  {
+    "id": 198,
+    "question": "ডাকের সুন্দরী ",
+    "answer": " খুবই সুন্দরী",
+    "description": " Very beautiful"
+  },
+  {
+    "id": 199,
+    "question": "ডুমুরের ফুল ",
+    "answer": " দুর্লভ",
+    "description": " Rare"
+  },
+  {
+    "id": 200,
+    "question": "ডান হাতের ব্যাপার ",
+    "answer": " খাওয়া",
+    "description": " Easy task"
+  },
+  {
+    "id": 201,
+    "question": "ডামাডোল ",
+    "answer": " গণ্ডগোল",
+    "description": " Rolling and tumbling"
+  },
+  {
+    "id": 202,
+    "question": "ঢাক ঢাক গুড় গুড় ",
+    "answer": " গোপন রাখার চেষ্টা",
+    "description": " Trying to keep something secret."
+  },
+  {
+    "id": 203,
+    "question": "ঢাকের কাঠি ",
+    "answer": " মোসাহেব, চাটুকার",
+    "description": " Hypocrite, flatterer."
+  },
+  {
+    "id": 204,
+    "question": "ঢাকের বাঁয়া ",
+    "answer": " অপ্রয়োজনীয়",
+    "description": " Unnecessary."
+  },
+  {
+    "id": 205,
+    "question": "ঢেঁকির কচকচি ",
+    "answer": " বিরক্তিকর কথা",
+    "description": " Annoying talk."
+  },
+  {
+    "id": 206,
+    "question": "ঢি ঢি পড়া ",
+    "answer": " কলঙ্ক প্রচার হওয়া",
+    "description": " Spreading rumors."
+  },
+  {
+    "id": 207,
+    "question": "ঢিমে তেতালা ",
+    "answer": " মন্থর",
+    "description": " Cunning or deceitful."
+  },
+  {
+    "id": 208,
+    "question": "তালকানা ",
+    "answer": " বেতাল হওয়া",
+    "description": " Being unpredictable."
+  },
+  {
+    "id": 209,
+    "question": "তাসের ঘর ",
+    "answer": " ক্ষণস্থায়ী",
+    "description": " Temporary."
+  },
+  {
+    "id": 210,
+    "question": "তামার বিষ ",
+    "answer": " অর্থের কু প্রভাব",
+    "description": " Having a negative influence."
+  },
+  {
+    "id": 211,
+    "question": "তালপাতার সেপাই ",
+    "answer": " ক্ষীণজীবী",
+    "description": " A weakened or exhausted person."
+  },
+  {
+    "id": 212,
+    "question": "তিলকে তাল করা ",
+    "answer": " বাড়িয়ে বলা",
+    "description": " Making someone feel superior or important."
+  },
+  {
+    "id": 213,
+    "question": "তুলসী বনের বাঘ ",
+    "answer": " ভণ্ড",
+    "description": " Worthless or deceitful person."
+  },
+  {
+    "id": 214,
+    "question": "তুলা ধুনা করা ",
+    "answer": " দুর্দশাগ্রস্ত করা",
+    "description": " Making something difficult or problematic."
+  },
+  {
+    "id": 215,
+    "question": "তুষের আগুন ",
+    "answer": " দীর্ঘস্থায়ী ও দুঃসহ যন্ত্রণা",
+    "description": " Long-lasting and painful distress."
+  },
+  {
+    "id": 216,
+    "question": "তীর্থের কাক ",
+    "answer": " প্রতীক্ষারত",
+    "description": " Waiting eagerly."
+  },
+  {
+    "id": 217,
+    "question": "থ বনে যাওয়া ",
+    "answer": " স্তম্ভিত হওয়া",
+    "description": " Being astonished or surprised."
+  },
+  {
+    "id": 218,
+    "question": "থরহরি কম্প ",
+    "answer": " ভীতির আতিশয্যে কাঁপা",
+    "description": " Trembling with fear."
+  },
+  {
+    "id": 219,
+    "question": "দা-কুমড়া ",
+    "answer": " ভীষণ শত্রুতা",
+    "description": " Intense enmity or rivalry."
+  },
+  {
+    "id": 220,
+    "question": "দহরম মহরম ",
+    "answer": " ঘনিষ্ঠ সম্পর্ক",
+    "description": " Close relationship or bond."
+  },
+  {
+    "id": 221,
+    "question": "দু মুখো সাপ ",
+    "answer": " দু জনকে দু রকম কথা বলে পরস্পরের মধ্যে শত্রুতা সৃষ্টিকারী",
+    "description": " Two-faced and contradictory statements leading to enmity."
+  },
+  {
+    "id": 222,
+    "question": "দিনকে রাত করা ",
+    "answer": " সত্যকে মিথ্যা করা",
+    "description": " Distorting the truth."
+  },
+  {
+    "id": 223,
+    "question": "দুধে ভাতে থাকা ",
+    "answer": " খেয়ে-পড়ে সুখে থাকা",
+    "description": " Living in comfort and luxury."
+  },
+  {
+    "id": 224,
+    "question": "দেঁতো হাসি ",
+    "answer": " কৃত্তিম হাসি",
+    "description": " Artificial laughter."
+  },
+  {
+    "id": 225,
+    "question": "দাদ নেওয়া ",
+    "answer": " প্রতিশোধ নেয়া",
+    "description": " Taking revenge."
+  },
+  {
+    "id": 226,
+    "question": "দুকান কাটা ",
+    "answer": " বেহায়া",
+    "description": " Showing off."
+  },
+  {
+    "id": 227,
+    "question": "দুধের মাছি ",
+    "answer": " সু সময়ের বন্ধু",
+    "description": " Fair-weather friend."
+  },
+  {
+    "id": 228,
+    "question": "ধরাকে সরা জ্ঞান করা ",
+    "answer": " সকলকে তুচ্ছ ভাবা",
+    "description": " Considering everyone insignificant."
+  },
+  {
+    "id": 229,
+    "question": "ধড়া-চূড়া ",
+    "answer": " সাজপোশাক",
+    "description": " Dressing up or decorating oneself."
+  },
+  {
+    "id": 230,
+    "question": "ধরাকে সরা জ্ঞান করা ",
+    "answer": " অহঙ্কারে সবকিছু তুচ্ছ মনে করা",
+    "description": " Considering everything trivial due to arrogance."
+  },
+  {
+    "id": 231,
+    "question": "ধর্মের ষাঁড় ",
+    "answer": " যথেচ্ছাচারী",
+    "description": " Hypocrite."
+  },
+  {
+    "id": 232,
+    "question": "ধর্মের কল বাতাসে নড়ে ",
+    "answer": " সত্য গোপন থাকে না",
+    "description": " Truth cannot be hidden."
+  },
+  {
+    "id": 233,
+    "question": "ধরি মাছ না ছুঁই পানি ",
+    "answer": " কৌশলে কার্যাদ্ধার",
+    "description": " Being skillful and efficient."
+  },
+  {
+    "id": 234,
+    "question": "ননীর পুতুল ",
+    "answer": " শ্রমবিমুখ",
+    "description": " Hardworking and diligent."
+  },
+  {
+    "id": 235,
+    "question": "নয় ছয় ",
+    "answer": " অপচয়",
+    "description": " Wasteful."
+  },
+  {
+    "id": 236,
+    "question": "নাটের গুরু ",
+    "answer": " মূল নায়ক",
+    "description": " Main character or protagonist."
+  },
+  {
+    "id": 237,
+    "question": "নাড়ি নক্ষত্র ",
+    "answer": " সব তথ্য",
+    "description": " All information."
+  },
+  {
+    "id": 238,
+    "question": "নিমক হারাম ",
+    "answer": " অকৃতজ্ঞ",
+    "description": " Ungrateful."
+  },
+  {
+    "id": 239,
+    "question": "নিমরাজি ",
+    "answer": " প্রায় রাজি",
+    "description": " Almost satisfied."
+  },
+  {
+    "id": 240,
+    "question": "নামকাটা সেপাই ",
+    "answer": " কর্মচ্যূত ব্যক্তি",
+    "description": " Lazy person."
+  },
+  {
+    "id": 241,
+    "question": "নথ নাড়া ",
+    "answer": " গর্ব করা",
+    "description": " Being proud."
+  },
+  {
+    "id": 242,
+    "question": "নেই আঁকড়া ",
+    "answer": " একগুঁয়ে",
+    "description": " Rare."
+  },
+  {
+    "id": 243,
+    "question": "নগদ নারায়ণ ",
+    "answer": " কাঁচা টাকা/নগদ অর্থ",
+    "description": " Cash or instant money."
+  },
+  {
+    "id": 244,
+    "question": "নেপোয় মারে দই ",
+    "answer": " ধূর্ত লোকের ফল প্রাপ্তি",
+    "description": " Gaining profit through deceitful means."
+  },
+  {
+    "id": 245,
+    "question": "পটল তোলা ",
+    "answer": " মারা যাওয়া",
+    "description": " Dying."
+  },
+  {
+    "id": 246,
+    "question": "পগার পার ",
+    "answer": " আয়ত্তের বাইরে পালিয়ে যাওয়া",
+    "description": " Going beyond the limit."
+  },
+  {
+    "id": 247,
+    "question": "পটের বিবি ",
+    "answer": " সুসজ্জিত",
+    "description": " Well-dressed."
+  },
+  {
+    "id": 248,
+    "question": "পত্রপাঠ ",
+    "answer": " অবিলম্বে/সঙ্গে সঙ্গে",
+    "description": " Immediately/Without delay."
+  },
+  {
+    "id": 249,
+    "question": "পালের গোদা ",
+    "answer": " দলপতি",
+    "description": " Wealthy person."
+  },
+  {
+    "id": 250,
+    "question": "পাকা ধানে মই ",
+    "answer": " অনিষ্ট করা",
+    "description": " Causing harm or damage."
+  },
+  {
+    "id": 251,
+    "question": "পাখিপড়া করা ",
+    "answer": " বার বার শেখানো",
+    "description": " Teaching repeatedly."
+  },
+  {
+    "id": 252,
+    "question": "পাততাড়ি গুটানো ",
+    "answer": " জিনিসপত্র গোটানো",
+    "description": " Collecting scraps of paper."
+  },
+  {
+    "id": 253,
+    "question": "পাথরে পাঁচ কিল ",
+    "answer": " সৌভাগ্য",
+    "description": " Five kilograms on a stone represents good luck."
+  },
+  {
+    "id": 254,
+    "question": "পুঁটি মাছের প্রাণ ",
+    "answer": " যা সহজে মরে যায়",
+    "description": " Something that dies easily, like the life of a small fish."
+  },
+  {
+    "id": 255,
+    "question": "পুকুর চুরি ",
+    "answer": " বড় রকমের চুরি",
+    "description": " A significant theft."
+  },
+  {
+    "id": 256,
+    "question": "পুরোনো কাসুন্দি ঘাঁটা ",
+    "answer": " পুরোনো প্রসঙ্গে কটাক্ষ করা",
+    "description": " Making eye contact with someone from the past."
+  },
+  {
+    "id": 257,
+    "question": "পোঁ ধরা ",
+    "answer": " অন্যকে দেখে একই কাজ করা",
+    "description": " Doing the same task after seeing someone else do it."
+  },
+  {
+    "id": 258,
+    "question": "পোয়া বারো ",
+    "answer": " অতিরিক্ত সৌভাগ্য",
+    "description": " Excessive luck."
+  },
+  {
+    "id": 259,
+    "question": "প্রমাদ গোণা ",
+    "answer": " ভীত হওয়া",
+    "description": " Being frightened."
+  },
+  {
+    "id": 260,
+    "question": "পায়াভারি ",
+    "answer": " অহঙ্কার",
+    "description": " Arrogance."
+  },
+  {
+    "id": 261,
+    "question": "পরের মাথায় কাঁঠাল ভাঙা ",
+    "answer": " অপরকে দিয়ে কাজ উদ্ধার",
+    "description": " Solving someone else's work."
+  },
+  {
+    "id": 262,
+    "question": "পরের ধনে পোদ্দারি ",
+    "answer": " অন্যের অর্থের যথেচ্ছ ব্যয়",
+    "description": " Spending someone else's money."
+  },
+  {
+    "id": 263,
+    "question": "ফপর দালালি ",
+    "answer": " অতিরিক্ত চালবাজি",
+    "description": " Excessive manipulation."
+  },
+  {
+    "id": 264,
+    "question": "ফুলবাবু ",
+    "answer": " বিলাসী",
+    "description": " A lover of luxury."
+  },
+  {
+    "id": 265,
+    "question": "ফেউ লাগা ",
+    "answer": " আঠার মতো লেগে থাকা",
+    "description": " Feeling bored or uninterested."
+  },
+  {
+    "id": 266,
+    "question": "ফুলের ঘাঁয়ে মূর্ছা যাওয়া ",
+    "answer": " অল্পে কাতর",
+    "description": " Being faint-hearted or easily scared."
+  },
+  {
+    "id": 267,
+    "question": "ফোড়ন দেওয়া ",
+    "answer": " টিপ্পনী কাটা",
+    "description": " Making sarcastic remarks."
+  },
+  {
+    "id": 268,
+    "question": "বক ধার্মিক ",
+    "answer": " ভণ্ড সাধু",
+    "description": " A hypocrite."
+  },
+  {
+    "id": 269,
+    "question": "বইয়ের পোকা ",
+    "answer": " খুব পড়ুয়া",
+    "description": " A bookworm."
+  },
+  {
+    "id": 270,
+    "question": "বগল বাজানো ",
+    "answer": " আনন্দ প্রকাশ করা",
+    "description": " Expressing joy or happiness."
+  },
+  {
+    "id": 271,
+    "question": "বজ্র আঁটুনি ফসকা গেরো ",
+    "answer": " সহজে খুলে যায় এমন",
+    "description": " Something that easily opens up like a thunderbolt."
+  },
+  {
+    "id": 272,
+    "question": "বসন্তের কোকিল ",
+    "answer": " সুদিনের বন্ধু",
+    "description": " A friend during happy times."
+  },
+  {
+    "id": 273,
+    "question": "বিড়াল তপস্বী ",
+    "answer": " ভণ্ড সাধু",
+    "description": " A hypocrite."
+  },
+  {
+    "id": 274,
+    "question": "বর্ণচোরা আম ",
+    "answer": " কপট ব্যক্তি",
+    "description": " A deceitful person."
+  },
+  {
+    "id": 275,
+    "question": "বরাক্ষরে ",
+    "answer": " অলক্ষুণে",
+    "description": " Secretly or stealthily."
+  },
+  {
+    "id": 276,
+    "question": "বাজারে কাটা ",
+    "answer": " বিক্রি হওয়া",
+    "description": " Being sold in the market."
+  },
+  {
+    "id": 277,
+    "question": "বালির বাঁধ ",
+    "answer": " অস্থায়ী বস্তু",
+    "description": " A temporary arrangement."
+  },
+  {
+    "id": 278,
+    "question": "বাঁ হাতের ব্যাপার ",
+    "answer": " ঘুষ গ্রহণ",
+    "description": " Accepting bribery."
+  },
+  {
+    "id": 279,
+    "question": "বাঁধা গৎ ",
+    "answer": " নির্দিষ্ট আচরণ",
+    "description": " Having a specific behavior or manner."
+  },
+  {
+    "id": 280,
+    "question": "বাজখাঁই গলা ",
+    "answer": " অত্যন্ত কর্কশ ও উঁচু গলা",
+    "description": " Having a harsh and loud voice."
+  },
+  {
+    "id": 281,
+    "question": "বাড়া ভাতে ছাই ",
+    "answer": " অনিষ্ট করা",
+    "description": " Causing harm or disturbance."
+  },
+  {
+    "id": 282,
+    "question": "বায়াত্তরে ধরা ",
+    "answer": " বার্ধক্যের কারণে কাণ্ডজ্ঞানহীন",
+    "description": " Being ignorant due to old age."
+  },
+  {
+    "id": 283,
+    "question": "বিদ্যার জাহাজ ",
+    "answer": " অতিশয় পণ্ডিত",
+    "description": " An extremely learned person."
+  },
+  {
+    "id": 284,
+    "question": "বিশ বাঁও জলে ",
+    "answer": " সাফল্যের অতীত",
+    "description": " Beyond the boundaries of success."
+  },
+  {
+    "id": 285,
+    "question": "বিনা মেঘে বজ্রপাত ",
+    "answer": " আকস্মিক বিপদ",
+    "description": " An unexpected disaster."
+  },
+  {
+    "id": 286,
+    "question": "বাঘের দুধ/ চোখ ",
+    "answer": " দুঃসাধ্য বস্তু",
+    "description": " Something impossible or unattainable."
+  },
+  {
+    "id": 287,
+    "question": "বিসমিল্লায় গলদ ",
+    "answer": " শুরুতেই ভুল",
+    "description": " Starting with a mistake."
+  },
+  {
+    "id": 288,
+    "question": "বুদ্ধির ঢেঁকি ",
+    "answer": " নিরেট মূর্খ",
+    "description": " A sign of extreme foolishness."
+  },
+  {
+    "id": 289,
+    "question": "ব্যাঙের আধুলি ",
+    "answer": " সামান্য সম্পদ",
+    "description": " A small possession or wealth."
+  },
+  {
+    "id": 290,
+    "question": "ব্যাঙের সর্দি ",
+    "answer": " অসম্ভব ঘটনা",
+    "description": " An unbelievable incident."
+  },
+  {
+    "id": 291,
+    "question": "ভরাডুবি ",
+    "answer": " সর্বনাশ",
+    "description": " Total destruction."
+  },
+  {
+    "id": 292,
+    "question": "ভস্মে ঘি ঢালা ",
+    "answer": " নিষ্ফল কাজ",
+    "description": " A futile effort."
+  },
+  {
+    "id": 293,
+    "question": "ভাদ্র মাসের তিল ",
+    "answer": " প্রচণ্ড কিল",
+    "description": " A great fort."
+  },
+  {
+    "id": 294,
+    "question": "ভানুমতীর খেল ",
+    "answer": " অবিশ্বাস্য ব্যাপার",
+    "description": " An incredible matter."
+  },
+  {
+    "id": 295,
+    "question": "ভাল্লুকের জ্বর ",
+    "answer": " ক্ষণস্থায়ী জ্বর",
+    "description": " Temporary fever."
+  },
+  {
+    "id": 296,
+    "question": "ভাঁড়ে ভবানী ",
+    "answer": " নিঃস্ব অবস্থা",
+    "description": " In a helpless situation."
+  },
+  {
+    "id": 297,
+    "question": "ভূতের ব্যাগার ",
+    "answer": " অযথা শ্রম",
+    "description": " Unnecessary labor."
+  },
+  {
+    "id": 298,
+    "question": "ভূঁই ফোড় ",
+    "answer": " হঠাৎ গজিয়ে ওঠা",
+    "description": " Suddenly rising or emerging."
+  },
+  {
+    "id": 299,
+    "question": "ভিজে বিড়াল ",
+    "answer": " কপটাচারী",
+    "description": " A deceptive person."
+  },
+  {
+    "id": 300,
+    "question": "ভূশন্ডির কাক ",
+    "answer": " দীর্ঘজীবী",
+    "description": " A long-lived creature."
+  },
+  {
+    "id": 301,
+    "question": "মগের মুল্লুক ",
+    "answer": " অরাজক দেশ",
+    "description": " Godless country"
+  },
+  {
+    "id": 302,
+    "question": "মণিকাঞ্চন যোগ ",
+    "answer": " উপযুক্ত মিলন",
+    "description": " Suitable combination"
+  },
+  {
+    "id": 303,
+    "question": "মন না মতি ",
+    "answer": " অস্থির মানব মন",
+    "description": " Unstable human mind"
+  },
+  {
+    "id": 304,
+    "question": "মড়াকান্না ",
+    "answer": " উচ্চকণ্ঠে শোক প্রকাশ",
+    "description": " Expressing grief in a loud voice"
+  },
+  {
+    "id": 305,
+    "question": "মাছের মায়ের পুত্রশোক ",
+    "answer": " কপট বেদনাবোধ",
+    "description": " Hypocritical display of grief"
+  },
+  {
+    "id": 306,
+    "question": "মিছরির ছুরি ",
+    "answer": " মুখে মধু অন্তরে বিষ",
+    "description": " Honey in the mouth, poison in the heart"
+  },
+  {
+    "id": 307,
+    "question": "মুখ চুন হওয়া ",
+    "answer": " লজ্জায় ম্লান হওয়া",
+    "description": " Feeling embarrassed and dejected"
+  },
+  {
+    "id": 308,
+    "question": "মুখে দুধের গন্ধ ",
+    "answer": " অতি কম বয়স",
+    "description": " Very young age"
+  },
+  {
+    "id": 309,
+    "question": "মুস্কিল আসান ",
+    "answer": " নিষ্কৃতি",
+    "description": " Inevitable"
+  },
+  {
+    "id": 310,
+    "question": "মেনি মুখো ",
+    "answer": " লাজুক",
+    "description": " Shameless"
+  },
+  {
+    "id": 311,
+    "question": "মাকাল ফল ",
+    "answer": " অন্তঃসারশূণ্য",
+    "description": " Empty inside"
+  },
+  {
+    "id": 312,
+    "question": "মশা মারতে কামান দাগা ",
+    "answer": " সামান্য কাজে বিরাট আয়োজন",
+    "description": " Making a big fuss over a small matter"
+  },
+  {
+    "id": 313,
+    "question": "মুখে ফুল চন্দন পড়া ",
+    "answer": " শুভ সংবাদের জন্য ধন্যবাদ",
+    "description": " Thankful for good news"
+  },
+  {
+    "id": 314,
+    "question": "মেছো হাটা ",
+    "answer": " তুচ্ছ বিষয়ে মুখরিত",
+    "description": " Speaking superficially on trivial matters"
+  },
+  {
+    "id": 315,
+    "question": "যক্ষের ধন ",
+    "answer": " কৃপণের ধন",
+    "description": " Greedy person's wealth"
+  },
+  {
+    "id": 316,
+    "question": "যমের অরুচি ",
+    "answer": " যে সহজে মরে না",
+    "description": " Death does not come easily"
+  },
+  {
+    "id": 317,
+    "question": "রত্নপ্রসবিনী ",
+    "answer": " সুযোগ্য সন্তানের মা",
+    "description": " Mother of a talented child"
+  },
+  {
+    "id": 318,
+    "question": "রাঘব বোয়াল ",
+    "answer": " সর্বগ্রাসী ক্ষমতাবান ব্যক্তি",
+    "description": " Ambitious and powerful person"
+  },
+  {
+    "id": 319,
+    "question": "রাবণের চিতা ",
+    "answer": " চির অশান্তি",
+    "description": " Perpetual unrest"
+  },
+  {
+    "id": 320,
+    "question": "রাশভারি ",
+    "answer": " গম্ভীর প্রকৃতির",
+    "description": " Deep natured"
+  },
+  {
+    "id": 321,
+    "question": "রাই কুড়িয়ে বেল ",
+    "answer": " ক্ষুদ্র সঞ্চয়ে বৃহৎ",
+    "description": " Making a big fuss over a small issue"
+  },
+  {
+    "id": 322,
+    "question": "রাজা উজির মারা ",
+    "answer": " আড়ম্বরপূর্ণ গালগল্প",
+    "description": " An exaggerated tale"
+  },
+  {
+    "id": 323,
+    "question": "রাবণের গুষ্টি ",
+    "answer": " বড় পরিবার",
+    "description": " Large family"
+  },
+  {
+    "id": 324,
+    "question": "রায় বাঘিনী ",
+    "answer": " উগ্র স্বভাবের নারী",
+    "description": " Woman with a fierce nature"
+  },
+  {
+    "id": 325,
+    "question": "রাজ যোটক ",
+    "answer": " উপযুক্ত মিলন",
+    "description": " Suitable combination"
+  },
+  {
+    "id": 326,
+    "question": "রাহুর দশা ",
+    "answer": " দুঃসময়",
+    "description": " Unfortunate time"
+  },
+  {
+    "id": 327,
+    "question": "রুই-কাতলা ",
+    "answer": " পদস্থ বা নেতৃস্থানীয় ব্যক্তি",
+    "description": " Leader or central figure"
+  },
+  {
+    "id": 328,
+    "question": "লেফাফা দুরস্ত ",
+    "answer": " বাইরের ঠাট বজার রেখে চলেন যিনি",
+    "description": " Having an outer appearance different from reality"
+  },
+  {
+    "id": 329,
+    "question": "লগন চাঁদ ",
+    "answer": " ভাগ্যবান",
+    "description": " Lucky"
+  },
+  {
+    "id": 330,
+    "question": "ললাটের লিখন ",
+    "answer": " অমোঘ ভাগ্য",
+    "description": " Unbelievable luck"
+  },
+  {
+    "id": 331,
+    "question": "লাল পানি ",
+    "answer": " মদ",
+    "description": " Alcohol"
+  },
+  {
+    "id": 332,
+    "question": "লাল বাতি জ্বালা ",
+    "answer": " দেউলিয়া হওয়া",
+    "description": " Becoming wealthy"
+  },
+  {
+    "id": 333,
+    "question": "লাল হয়ে যাওয়া ",
+    "answer": " ধনশালী হওয়া",
+    "description": " Becoming wealthy"
+  },
+  {
+    "id": 334,
+    "question": "লেজে গোবরে ",
+    "answer": " বিশৃঙ্খলা",
+    "description": " Indecisive"
+  },
+  {
+    "id": 335,
+    "question": "শকুনি মামা ",
+    "answer": " কুটিল ব্যক্তি",
+    "description": " Cunning person"
+  },
+  {
+    "id": 336,
+    "question": "শাঁখের করাত ",
+    "answer": " দুই দিকেই বিপদ",
+    "description": " In trouble from both sides"
+  },
+  {
+    "id": 337,
+    "question": "শাপে বর ",
+    "answer": " অনিষ্টে ইষ্ট লাভ",
+    "description": " Obtaining what is undesirable"
+  },
+  {
+    "id": 338,
+    "question": "শিকায় ওঠা ",
+    "answer": " স্থগিত",
+    "description": " Suspended or postponed"
+  },
+  {
+    "id": 339,
+    "question": "শিঙে ফোঁকা ",
+    "answer": " মরা",
+    "description": " Dead"
+  },
+  {
+    "id": 340,
+    "question": "শিবরাত্রির সলতে ",
+    "answer": " একমাত্র সন্তান",
+    "description": " Only child"
+  },
+  {
+    "id": 341,
+    "question": "শিরে সংক্রান্তি ",
+    "answer": " বিপদ মাথার ওপর",
+    "description": " In a dangerous situation"
+  },
+  {
+    "id": 342,
+    "question": "শুয়ে শুয়ে লেজ নাড়া ",
+    "answer": " আলস্যে সময় নষ্ট করা",
+    "description": " Wasting time in laziness"
+  },
+  {
+    "id": 343,
+    "question": "শরতের শিশির ",
+    "answer": " সুসময়ের বন্ধু",
+    "description": " A friend during the right time"
+  },
+  {
+    "id": 344,
+    "question": "শত্রুর মুখে ছাই ",
+    "answer": " কুদৃষ্টি এড়ানো",
+    "description": " Ignoring or neglecting someone"
+  },
+  {
+    "id": 345,
+    "question": "শ্রীঘর ",
+    "answer": " কারাগার",
+    "description": " Prison"
+  },
+  {
+    "id": 346,
+    "question": "ষাঁড়ের গোবর ",
+    "answer": " অযোগ্য",
+    "description": " Worthless"
+  },
+  {
+    "id": 347,
+    "question": "ষোল আনা ",
+    "answer": " পুরোপুরি",
+    "description": " Completely"
+  },
+  {
+    "id": 348,
+    "question": "ঘোল কলা ",
+    "answer": " পুরোপুরি",
+    "description": " Completely"
+  },
+  {
+    "id": 349,
+    "question": "সবুরে মেওয়া ফলে ",
+    "answer": " ধৈর্যসুফল মিলে",
+    "description": " Patience pays off"
+  },
+  {
+    "id": 350,
+    "question": "সরফরাজি করা ",
+    "answer": " অযোগ্য ব্যক্তির চালাকি",
+    "description": " Tricking an unworthy person"
+  },
+  {
+    "id": 351,
+    "question": "সাত খুন মাফ ",
+    "answer": " অত্যধিক প্রশ্রয়",
+    "description": " Seven murders forgiven"
+  },
+  {
+    "id": 352,
+    "question": "সাত সতের ",
+    "answer": " নানা রকমের",
+    "description": " Various types"
+  },
+  {
+    "id": 353,
+    "question": "সাপের ছুঁচো গেলা ",
+    "answer": " অনিচ্ছায় বাধ্য হয়ে কাজ করা",
+    "description": " Forced to work against one's will"
+  },
+  {
+    "id": 354,
+    "question": "সেয়ানে সেয়ানে ",
+    "answer": " চালাকে চালাকে",
+    "description": " Cunningly"
+  },
+  {
+    "id": 355,
+    "question": "সবে ধন নীলমণি ",
+    "answer": " একমাত্র অবলম্বন",
+    "description": " The only support"
+  },
+  {
+    "id": 356,
+    "question": "সাতেও নয়, পাঁচেও নয় ",
+    "answer": " নির্লিপ্ত",
+    "description": " Not even close"
+  },
+  {
+    "id": 357,
+    "question": "সাপের পাঁচ পা দেখা ",
+    "answer": " অহঙ্কারী হওয়া",
+    "description": " To become arrogant"
+  },
+  {
+    "id": 358,
+    "question": "সোনায় সোহাগা ",
+    "answer": " উপযুক্ত মিলন",
+    "description": " Suitable union"
+  },
+  {
+    "id": 359,
+    "question": "সাক্ষী গোপাল ",
+    "answer": " নিষ্ক্রিয় দর্শক",
+    "description": " Inactive spectator"
+  },
+  {
+    "id": 360,
+    "question": "সখাত সলিলে ",
+    "answer": " ঘোর বিপদে পড়া",
+    "description": " In deep trouble"
+  },
+  {
+    "id": 361,
+    "question": "সব শেয়ালের এক রা ",
+    "answer": " ঐকমত্য",
+    "description": " Same opinion"
+  },
+  {
+    "id": 362,
+    "question": "হাটে হাঁড়ি ভাঙা ",
+    "answer": " গোপন কথা প্রকাশ করা",
+    "description": " To reveal a secret"
+  },
+  {
+    "id": 363,
+    "question": "হাতটান ",
+    "answer": " চুরির অভ্যাস",
+    "description": " Habit of stealing"
+  },
+  {
+    "id": 364,
+    "question": "হ য ব র ল ",
+    "answer": " বিশৃঙ্খলা",
+    "description": " Confusion"
+  },
+  {
+    "id": 365,
+    "question": "হরি ঘোষের গোয়াল ",
+    "answer": " বহু অপদার্থ ব্যক্তির সমাবেশ",
+    "description": " Gathering of many useless people"
+  },
+  {
+    "id": 366,
+    "question": "হরিলুট ",
+    "answer": " অপচয়",
+    "description": " Waste"
+  },
+  {
+    "id": 367,
+    "question": "হস্তীমূর্খ ",
+    "answer": " বুদ্ধিতে স্থূল",
+    "description": " Intellectually dull"
+  },
+  {
+    "id": 368,
+    "question": "হাড়ে দুর্বা গজানো ",
+    "answer": " অত্যন্ত অলস হওয়া",
+    "description": " To be extremely lazy"
+  },
+  {
+    "id": 369,
+    "question": "হাতুড়ে বদ্যি ",
+    "answer": " আনাড়ি চিকিৎসক",
+    "description": " Quack doctor"
+  },
+  {
+    "id": 370,
+    "question": "হাতের পাঁচ ",
+    "answer": " শেষ সম্বল",
+    "description": " The last resort"
+  },
+  {
+    "id": 371,
+    "question": "হীরার ধার ",
+    "answer": " অতি তীক্ষ্ণবুদ্ধি",
+    "description": " Extremely sharp-witted"
+  },
+  {
+    "id": 372,
+    "question": "হোমরা চোমরা ",
+    "answer": " গণ্যমান্য ব্যক্তি",
+    "description": " Esteemed person"
+  },
+  {
+    "id": 373,
+    "question": "হিতে বিপরীত ",
+    "answer": " উল্টো ফল",
+    "description": " Opposite result"
+  },
+  {
+    "id": 374,
+    "question": "হাড় হদ্দ ",
+    "answer": " নাড়ি নক্ষত্র/সব তথ্য",
+    "description": " Sticking point/All the information"
+  },
+  {
+    "id": 375,
+    "question": "হাড় হাভাতে ",
+    "answer": " হতভাগ্য",
+    "description": " Unfortunate"
+  },
+  {
+    "id": 376,
+    "question": "হালে পানি পাওয়া ",
+    "answer": " সুবিধা করা",
+    "description": " To find convenience"
+  }
+]
